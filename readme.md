@@ -19,7 +19,7 @@ and run the following in the repository directory:
 jupyter notebook
 ```
 
-## light enhancement part (LIME)
+## light enhancement (LIME)
 
 Proposed method contains a low light enhancement process called LIME which a third party implementation is used and can be found at:
 [Unofficial implementation of the paper LIME: A Method for Low-light IMage Enhancement.](https://github.com/Sy-Zhang/LIME)
