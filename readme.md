@@ -5,6 +5,7 @@ This repo is the implementation of enhancing indoor construction progress monito
 ## files description
 
 - process_flow.ipynb
+
 this file contains complete process of this method. Other files are side files for more results and visualization.
 
 ## run
@@ -20,5 +21,5 @@ jupyter notebook
 
 ## light enhancement part (LIME)
 
-Proposed method contains a low light enhancement process called LIME which we used a third party implementation and can be found at:
+Proposed method contains a low light enhancement process called LIME which a third party implementation is used and can be found at:
 [Unofficial implementation of the paper LIME: A Method for Low-light IMage Enhancement.](https://github.com/Sy-Zhang/LIME)
